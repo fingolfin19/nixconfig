@@ -16,6 +16,7 @@
     ./vscode
     ./steam
     ./mpv.nix
+    ./obsidian
   ];
 
   # TODO: Set your username

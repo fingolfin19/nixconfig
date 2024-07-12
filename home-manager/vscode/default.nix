@@ -147,9 +147,6 @@
       "workbench.colorTheme" = "Default Light Modern";
       "editor.minimap.enabled" = false;
       "workbench.activityBar.location" = "hidden";
-      "gruvboxMaterial.lightContrast" = "hard";
-      "gruvboxMaterial.lightWorkbench" = "flat";
-      "gruvboxMaterial.highContrast" = true;
       "window.zoomLevel" = 0.5;
       "editor.fontSize" = 12.5;
       "git.confirmSync" = false;
