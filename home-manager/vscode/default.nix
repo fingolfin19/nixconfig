@@ -145,7 +145,7 @@
       "nix.enableLanguageServer" = true;
       "nix.serverPath" = "nixd";
       "workbench.editor.showTabs" = "none";
-      "workbench.colorTheme" = "Default Light Modern";
+      "workbench.colorTheme" = "Gruvbox Dark Hard";
       "editor.minimap.enabled" = false;
       "workbench.activityBar.location" = "hidden";
       "window.zoomLevel" = 0.5;
