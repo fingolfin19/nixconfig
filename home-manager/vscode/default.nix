@@ -16,6 +16,7 @@
     extensions = with pkgs.vscode-extensions;
       [
         dracula-theme.theme-dracula
+        jdinhlife.gruvbox
         jnoortheen.nix-ide
         mkhl.direnv
       ]
