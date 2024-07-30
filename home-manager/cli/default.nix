@@ -50,7 +50,7 @@
     enable = true;
     settings = {
       format = "$username$hostname$directory$git_branch$git_state$git_status$cmd_duration$line_break$python$character";
-directory.style = "blue";
+      directory.style = "blue";
       add_newline = true;
       character = {
         success_symbol = "[❯](bold green)";
